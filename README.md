@@ -9,3 +9,6 @@ Riešitelia:
 Tím 1: Alexander Bodnár (alexander.bodnar@student.tuke.sk), Martin Buzogaň, Matúš Petro
 
 Link na modely: https://tukesk-my.sharepoint.com/:f:/g/personal/matus_petro_2_student_tuke_sk/EsDF4qTdjgdJoYA4sXRbPAoB1EwRprbXpRNdenW4M57Q4w?e=fOJpYL
+
+Ukážka modelu DQN: https://www.youtube.com/watch?v=S_4vpX8lB0E
+Ukážka modelu PPO: https://www.youtube.com/watch?v=ES4go38-rR0
